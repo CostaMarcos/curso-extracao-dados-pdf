@@ -44,4 +44,6 @@ def exemplo_3():
 
 
 if __name__ == "__main__":
+    print(exemplo_1())
+    print(exemplo_2("® Join the official Python Developers Survey 2022 and win valuable prizes"))
     exemplo_3()
